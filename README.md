@@ -16,7 +16,7 @@ const Nekosor = {
 ```
 
 # 🚀 About Me,
-Acerca deAcerca de
+
 🚀👨‍💻 Soy un amante de la tecnología, con más de una década de experiencia en el mundo del Hardware 🔧, brindando soporte independiente a una variedad de profesionales y emprendedores del país 🌎.
 
 💻 Actualmente me encuentro en la etapa final de mi carrera 🎓 en Diseño y Desarrollo de Software 🖥️, pero mi aprendizaje va más allá 🌌. Soy un firme creyente en la educación continua 📖 y me esfuerzo por estar siempre al día con las últimas tendencias tecnológicas. Dedico mi tiempo ⏳ en aprender, practicar y aplicar mis conocimientos a través de la creación de proyectos 🗂, así lograr afianzar mis habilidades. Mi enfoque y dedicación 🎯 no solo se reflejan en mis calificaciones sobresalientes 💯, sino también en el valor práctico y la innovación que aporto en cada proyecto en el que participo.
