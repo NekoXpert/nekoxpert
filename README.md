@@ -7,7 +7,7 @@ const Nekosor = {
   Technologies: {
     Languages: ['JavaScript', 'Python', 'Java'],
     Frontend: ['Angular', 'TypeScript', 'Tailwind', 'Bootstrap'],
-    Backend: ['Node.js', 'Express', 'Spring Boot', 'Django'],
+    Backend: ['Node.js', 'Express', 'Django'],
     Hardware: ['Components', 'Computer assembly'],
     Marketing: ['SEO', 'Content Strategy', 'Metricool'],
   },
