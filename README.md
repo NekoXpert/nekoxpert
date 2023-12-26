@@ -5,8 +5,8 @@ const Nekosor = {
   Lastname: 'Reyes',
   Titles: ['Full Stack Developer', 'Hardware Expert', 'Marketer'],
   Technologies: {
-    Languages: ['JavaScript', 'Python', 'Java'],
-    Frontend: ['Angular', 'TypeScript', 'Tailwind', 'Bootstrap'],
+    Languages: ['JavaScript', 'TypeScript', 'Python'],
+    Frontend: ['Angular', 'Tailwind', 'Bootstrap'],
     Backend: ['Node.js', 'Express', 'Django'],
     Hardware: ['Components', 'Computer assembly'],
     Marketing: ['SEO', 'Content Strategy', 'Metricool'],
