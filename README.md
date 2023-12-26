@@ -1,6 +1,6 @@
 # Hi there 👋, 
 ```javascript
-const Nekosor = {
+const felinekodev = {
   Name: 'Felipe',
   Lastname: 'Reyes',
   Titles: ['Full Stack Developer', 'Hardware Expert', 'Marketer'],
