@@ -1,6 +1,6 @@
 # Hi there 👋, 
 ```javascript
-const felinekodev = {
+const FeliNekoDev = {
   Name: 'Felipe',
   Lastname: 'Reyes',
   Titles: ['Full Stack Developer', 'Hardware Expert', 'Marketer'],
