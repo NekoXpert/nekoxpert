@@ -31,7 +31,7 @@ const FeliNekoDev = {
 
 💬 En el aspecto personal, tengo una gran afición por los animales 🐾, especialmente los gatos 🐱, y disfruto de una variedad de comidas 🍴, desde la cocina marina 🍤 hasta la criolla y asiática 🍣. En mi tiempo libre, me encuentro probando nuevos juegos 🎮, explorando productos tecnológicos 📱 o editando vídeos 🎬 para las redes sociales.
 
-🔗 Estoy en redes como { Nekosor }, un amante de la tecnología 💡 y una mente creativa 🎨, listo para conversar contigo sobre los últimos avances y descubrimientos en el mundo TI 📡.
+🔗 Estoy en redes como { felineko }, un amante de la tecnología 💡 y una mente creativa 🎨, listo para conversar contigo sobre los últimos avances y descubrimientos en el mundo TI 📡.
 🌟 Recuerda: ¡Haz todo con pasión! 🔥
 
-### Portfolio 📂🖱 www.nekosor.com
+### Portfolio 📂🖱 www.felineko.dev
