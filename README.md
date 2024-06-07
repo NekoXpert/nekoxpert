@@ -14,8 +14,8 @@ const FeliNekoDev = {
   CurrentProject: 'Designing a web application focused on microservices'
 }
 ```
-
-# 🚀👨‍💻 Soy un amante de la tecnología, con más de una década  de experiencia en el mundo del Hardware🔧, brindando soporte independiente a una variedad de profesionales y emprendedores del país🌎.
+# 👨‍💻Experto en TI 😼
+🚀 Soy un amante de la tecnología, con más de una década  de experiencia en el mundo del Hardware🔧, brindando soporte independiente a una variedad de profesionales y emprendedores del país🌎.
 
 💻 Actualmente convalide mi carrera de Diseño y Desarrollo de Software🖥️ que estudiaba en CERTUS con la carrera de Ingeniería de Sistemas📲📚 en UPC🎓 creando un hito importante en mi carrera profesional. Soy un firme creyente en la educación continua⏩ y me esfuerzo por estar siempre al día📖 con las últimas tendencias tecnologías📡. Dedico mi tiempo⏳ en aprender, practicar y aplicar mis conocimientos a través de la creación de proyectos🗂, así lograr afianzar mis habilidades. Mi enfoque y dedicación🎯 no solo se reflejan en mis calificaciones sobresalientes💯, sino también en el valor práctico y la innovación que aporto en cada proyecto en el que participo.
 
