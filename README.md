@@ -16,7 +16,8 @@ const NekoXpert = {
   CurrentProject: 'Designing a web application en Angular + SpringBoot + PostgreSQL'
 }
 ```
-🐱📲 Como apasionado de la tecnología y la innovación, busco unirme a un equipo dinámico donde pueda integrar mi experiencia en tecnología de manera integral. Mi expertise abarca desde el ensamblaje de computadoras, configuración de redes, e instalación y mantenimiento de sistemas operativos, hasta el diseño y desarrollo de aplicaciones web. 📚 Con una sólida formación en Ingeniería de Software, Marketing y más de 10 años de experiencia en soporte técnico, mi meta es crecer como experto en TI. Soy una persona ética y profesional, comprometida con la excelencia y el aprendizaje continuo. Quiero aportar mis habilidades técnicas y creativas a proyectos innovadores que impulsen el éxito de la organización. 🚀
+🐱📲 Como apasionado de la tecnología y la innovación, busco unirme a un equipo dinámico donde pueda integrar mi experiencia en tecnología de manera integral. Mi expertise abarca desde el ensamblaje de computadoras, configuración de redes, e instalación y mantenimiento de sistemas operativos, hasta el diseño y desarrollo de aplicaciones web. 📚 Con una sólida formación en Ingeniería de Software, Marketing Digital y más de 10 años de experiencia en soporte técnico, mi meta es crecer como experto en TI. Soy una persona ética y profesional, comprometida con la excelencia y el aprendizaje continuo. 🚀
+¡Gracias por visitar mi perfil! 🌟 Sigue mi viaje profesional y personal en LinkedIn como @felipereyesingunza para explorar las últimas tendencias tecnológicas💡📡, y compartir nuestra pasión por la tecnología 💻. Estoy abierto a colaboraciones en este emocionante mundo digital🚀.
 
 ## 🌟 Habilidades Técnicas
 ### Metodologías Agiles
