@@ -7,9 +7,9 @@ const NekoXpert = {
   Titles: ['Full Stack Developer', 'Hardware Expert', 'Marketer'],
   Technologies: {
     Languages: ['JavaScript', 'TypeScript', 'Python'],
-    Frontend: ['Angular', 'Tailwind', 'Bootstrap'],
-    Backend: ['Java', 'Node.js', 'Express', 'Django'],
-    Hardware: ['Networks', 'Computer assembly'],
+    Frontend: ['Angular', 'Tailwind'],
+    Backend: ['Spring Boot', 'NestJS', 'Node.js'],
+    Hardware: ['Infrastructure', 'Networks'],
     Marketing: ['SEO', 'Content Strategy', 'Social Networks'],
   },
   Expertise: ['Front-end Development', 'Hardware Maintenance', 'Cybersecurity', 'Strategic Marketing'],
@@ -25,22 +25,20 @@ const NekoXpert = {
 ![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-2496ED?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-e30613?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-e30613?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-D556FF?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/UX_UI_Design-7f00ff?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Hardware
 ![Networks](https://img.shields.io/badge/Networks-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
