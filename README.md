@@ -34,6 +34,7 @@ const NekoXpert = {
 ![Angular](https://img.shields.io/badge/Angular-D556FF?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/UX_UI_Design-7f00ff?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
